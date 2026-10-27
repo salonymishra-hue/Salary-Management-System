@@ -1,0 +1,21 @@
+# Maven build files
+target/
+
+# Java compiled files
+*.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment and secret files
+.env
+.env.*
+
+# Local database files
+*.db
+*.sqlite
+*.sqlite3
